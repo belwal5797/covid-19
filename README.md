@@ -1,1 +1,1 @@
-# covid-19 cases tracker across india.
+# Total covid-19 cases in india.
